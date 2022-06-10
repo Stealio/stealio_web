@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="stealio-logo-horizont-full-contrast.svg"
+   inkscape:export-filename="C:\Users\aszabo\Desktop\Stealio\stealio-logo-horizont-contrast.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.096401"
+     inkscape:cx="135.70877"
+     inkscape:cy="457.21215"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6097" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="280"
+       y="540"
+       width="610"
+       height="180"
+       id="rect14692" />
+    <rect
+       x="284.29676"
+       y="540.92705"
+       width="606.75415"
+       height="186.98713"
+       id="rect5631" />
+    <linearGradient
+       id="linearGradient2057"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2055" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path848"
+       style="fill:none;fill-opacity:1;stroke-width:1.2585827;stroke:#198754;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+       d="M 191.77539 369.43555 A 74.979426 72.996718 0 0 0 123.75586 411.79688 A 52.822359 48.984126 0 0 0 106.2207 409.01562 A 52.822359 48.984126 0 0 0 53.398438 457.99805 A 52.822359 48.984126 0 0 0 53.533203 461.36523 A 68.774666 58.606805 0 0 0 3.8222656 517.66797 A 68.774666 58.606805 0 0 0 72.595703 576.27344 A 68.774666 58.606805 0 0 0 82.423828 575.67188 L 180.41406 575.67188 L 258.82617 575.67188 A 80.932758 72.006247 25.512235 0 0 343.26172 532.69336 A 80.932758 72.006247 25.512235 0 0 292.56055 435.76367 A 80.932758 72.006247 25.512235 0 0 265.64062 429.92383 A 74.979426 72.996718 0 0 0 191.77539 369.43555 z "
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5629"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect5631)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.8686696,0,0,2.2281442,-429.61525,-1134.7142)"
+       id="text14690"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14692);fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.118108;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="280"
+         y="576.49321"
+         id="tspan2045"><tspan
+           style="font-family:Calibri;-inkscape-font-specification:Calibri;fill:none;stroke:#198754"
+           id="tspan2043">Stealio</tspan></tspan></text>
+    <path
+       id="path3584"
+       style="fill:none;stroke:#198754;stroke-width:1.2585827;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+       d="M 180.29102 277.14844 C 176.7714 277.15079 173.27313 277.23771 171.60156 277.4082 C 154.32922 279.16983 140.01307 284.25675 128.60938 292.68359 C 117.26204 301.06878 109.71056 312.63287 107.02539 325.73828 C 105.81645 331.63804 105.88001 329.2602 105.80469 370.9043 L 105.73633 408.94531 L 107.44531 408.94531 C 111.33975 408.94686 116.62922 409.69672 120.73047 410.82812 C 122.06793 411.19704 123.29668 411.51027 123.46094 411.52539 C 123.64784 411.54176 124.00036 411.04396 124.40234 410.19727 C 127.04406 404.63282 131.53995 398.27122 136.62695 392.89844 L 139.58594 389.77344 L 139.65039 362.02148 C 139.71659 334.29866 139.7185 334.26743 140.14453 332.3418 C 140.76463 329.53895 141.45954 327.51728 142.58398 325.24805 C 146.12728 318.09732 153.19748 312.4042 162.45898 309.24609 C 177.82845 304.0052 196.43619 306.01904 208.37891 314.21484 C 214.92623 318.70801 218.85086 324.41349 220.6582 332.06445 C 220.9572 333.33034 220.9971 335.50951 221.05859 354.32031 L 221.12695 375.17188 L 222.33594 375.65625 C 224.04134 376.3377 229.03614 378.9046 231.22852 380.22656 C 240.16647 385.61613 248.40258 393.31754 254.04102 401.55664 L 254.86523 402.75977 L 254.92383 368.81445 C 254.98609 332.93246 254.97294 332.23224 254.08008 327.23633 C 252.53569 318.59485 248.6514 309.92725 243.39844 303.39648 C 231.65472 288.79606 212.52928 279.63611 189.11133 277.39648 C 187.35274 277.2283 183.81063 277.14608 180.29102 277.14844 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="path7186"
+       style="fill:none;stroke:#198754;stroke-width:1.25858;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 179.33398 441.41602 A 25.954416 26.745857 0 0 0 153.37891 468.16211 A 25.954416 26.745857 0 0 0 171.98438 493.79102 C 171.71179 495.63492 170.92529 500.91714 169.63086 509.58008 C 168.1329 519.60509 166.9082 527.87987 166.9082 527.9668 C 166.9082 528.05373 172.54319 528.125 179.42969 528.125 L 191.94922 528.125 L 191.71094 526.57031 C 191.5798 525.7158 190.34687 517.45914 188.9707 508.22266 C 187.79364 500.32246 187.13592 496.03599 186.73828 493.77344 A 25.954416 26.745857 0 0 0 205.28711 468.16211 A 25.954416 26.745857 0 0 0 179.33398 441.41602 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
